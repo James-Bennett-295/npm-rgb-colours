@@ -1,0 +1,20 @@
+{
+  "name": "rgb-colours",
+  "version": "1.0.0",
+  "description": "RGB Colours.",
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "scripts": {
+    "build": "rm -rf ./build/ && npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james-bennett-295/npm-rgb-colours.git"
+  },
+  "author": "James Bennett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/james-bennett-295/npm-rgb-colours/issues"
+  },
+  "homepage": "https://github.com/james-bennett-295/npm-rgb-colours#readme"
+}
